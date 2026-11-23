@@ -1,0 +1,4 @@
+experiment,completion_date_cst,model_family,strategy,actions,distinct_verified_failures,unresolved_actions
+first_full_candidate_pool,2026-11-19,GPT,original_feedback,800,166,202
+first_full_candidate_pool,2026-11-19,GPT,simplified_feedback,800,82,194
+first_full_candidate_pool,2026-11-19,GPT,random_search,800,65,249
